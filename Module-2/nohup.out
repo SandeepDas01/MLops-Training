@@ -1,0 +1,7 @@
+[2024-06-18 12:46:27 +0000] [2902] [INFO] Starting gunicorn 22.0.0
+[2024-06-18 12:46:27 +0000] [2902] [INFO] Listening at: http://127.0.0.1:5000 (2902)
+[2024-06-18 12:46:27 +0000] [2902] [INFO] Using worker: sync
+[2024-06-18 12:46:27 +0000] [2903] [INFO] Booting worker with pid: 2903
+[2024-06-18 12:46:27 +0000] [2904] [INFO] Booting worker with pid: 2904
+[2024-06-18 12:46:27 +0000] [2908] [INFO] Booting worker with pid: 2908
+[2024-06-18 12:46:27 +0000] [2912] [INFO] Booting worker with pid: 2912
