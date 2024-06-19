@@ -5,3 +5,12 @@
 [2024-06-18 12:46:27 +0000] [2904] [INFO] Booting worker with pid: 2904
 [2024-06-18 12:46:27 +0000] [2908] [INFO] Booting worker with pid: 2908
 [2024-06-18 12:46:27 +0000] [2912] [INFO] Booting worker with pid: 2912
+[2024-06-18 13:21:46 +0000] [2902] [INFO] Handling signal: term
+[2024-06-18 13:21:46 +0000] [2912] [INFO] Worker exiting (pid: 2912)
+[2024-06-18 13:21:46 +0000] [2903] [INFO] Worker exiting (pid: 2903)
+[2024-06-18 13:21:46 +0000] [2908] [INFO] Worker exiting (pid: 2908)
+[2024-06-18 13:21:46 +0000] [2902] [ERROR] Worker (pid:2908) was sent SIGHUP!
+[2024-06-18 13:21:46 +0000] [2902] [ERROR] Worker (pid:2903) was sent SIGHUP!
+[2024-06-18 13:21:46 +0000] [2902] [ERROR] Worker (pid:2904) was sent SIGHUP!
+[2024-06-18 13:21:46 +0000] [2902] [ERROR] Worker (pid:2912) was sent SIGHUP!
+[2024-06-18 13:21:46 +0000] [2902] [INFO] Shutting down: Master

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/967233563642361836/5a692288b9d441e6a0af5be0b1b41237/artifacts
+end_time: 1718719338882
+entry_point_name: ''
+experiment_id: '967233563642361836'
+lifecycle_stage: active
+run_id: 5a692288b9d441e6a0af5be0b1b41237
+run_name: painted-slug-667
+run_uuid: 5a692288b9d441e6a0af5be0b1b41237
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718719338730
+status: 3
+tags: []
+user_id: codespace
