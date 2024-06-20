@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/812496471059171303/cab5d100abcc4bc3800486976d97c189/artifacts
+end_time: 1718806117014
+entry_point_name: ''
+experiment_id: '812496471059171303'
+lifecycle_stage: active
+run_id: cab5d100abcc4bc3800486976d97c189
+run_name: legendary-bird-946
+run_uuid: cab5d100abcc4bc3800486976d97c189
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718806100755
+status: 3
+tags: []
+user_id: codespace

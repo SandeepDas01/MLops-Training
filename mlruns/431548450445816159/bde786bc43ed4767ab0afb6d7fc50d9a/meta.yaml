@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/431548450445816159/bde786bc43ed4767ab0afb6d7fc50d9a/artifacts
+end_time: 1718861267158
+entry_point_name: ''
+experiment_id: '431548450445816159'
+lifecycle_stage: active
+run_id: bde786bc43ed4767ab0afb6d7fc50d9a
+run_name: caring-ray-617
+run_uuid: bde786bc43ed4767ab0afb6d7fc50d9a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718861243423
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/812496471059171303/bf2556d23932441fb55b32bf36df3ad0/artifacts
+end_time: 1718806817472
+entry_point_name: ''
+experiment_id: '812496471059171303'
+lifecycle_stage: active
+run_id: bf2556d23932441fb55b32bf36df3ad0
+run_name: capable-kite-909
+run_uuid: bf2556d23932441fb55b32bf36df3ad0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718806787961
+status: 3
+tags: []
+user_id: codespace

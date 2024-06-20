@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/812496471059171303/110546aea5ae45f5b79dfc1c4d901a63/artifacts
+end_time: 1718806920863
+entry_point_name: ''
+experiment_id: '812496471059171303'
+lifecycle_stage: active
+run_id: 110546aea5ae45f5b79dfc1c4d901a63
+run_name: handsome-smelt-475
+run_uuid: 110546aea5ae45f5b79dfc1c4d901a63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718806866470
+status: 3
+tags: []
+user_id: codespace

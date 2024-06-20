@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/812496471059171303/3e16bd9a378444f4bba1c9ecf2b5252d/artifacts
+end_time: 1718807541779
+entry_point_name: ''
+experiment_id: '812496471059171303'
+lifecycle_stage: active
+run_id: 3e16bd9a378444f4bba1c9ecf2b5252d
+run_name: enchanting-crane-503
+run_uuid: 3e16bd9a378444f4bba1c9ecf2b5252d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718807523497
+status: 3
+tags: []
+user_id: codespace

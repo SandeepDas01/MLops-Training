@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/431548450445816159/3385d1d1f8c449edaf707723371c3868/artifacts
+end_time: 1718860976913
+entry_point_name: ''
+experiment_id: '431548450445816159'
+lifecycle_stage: active
+run_id: 3385d1d1f8c449edaf707723371c3868
+run_name: capricious-wasp-926
+run_uuid: 3385d1d1f8c449edaf707723371c3868
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718860966344
+status: 3
+tags: []
+user_id: codespace

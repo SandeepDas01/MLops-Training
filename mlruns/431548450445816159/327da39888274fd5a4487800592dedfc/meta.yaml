@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/431548450445816159/327da39888274fd5a4487800592dedfc/artifacts
+end_time: 1718861597267
+entry_point_name: ''
+experiment_id: '431548450445816159'
+lifecycle_stage: active
+run_id: 327da39888274fd5a4487800592dedfc
+run_name: gifted-tern-590
+run_uuid: 327da39888274fd5a4487800592dedfc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718861564938
+status: 3
+tags: []
+user_id: codespace

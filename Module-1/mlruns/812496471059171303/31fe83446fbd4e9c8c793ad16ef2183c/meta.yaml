@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/812496471059171303/31fe83446fbd4e9c8c793ad16ef2183c/artifacts
+end_time: 1718805728366
+entry_point_name: ''
+experiment_id: '812496471059171303'
+lifecycle_stage: active
+run_id: 31fe83446fbd4e9c8c793ad16ef2183c
+run_name: funny-turtle-219
+run_uuid: 31fe83446fbd4e9c8c793ad16ef2183c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718805715488
+status: 3
+tags: []
+user_id: codespace

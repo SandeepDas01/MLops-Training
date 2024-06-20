@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/812496471059171303/aae6c4439144480c86db4a17e0549313/artifacts
+end_time: 1718806652576
+entry_point_name: ''
+experiment_id: '812496471059171303'
+lifecycle_stage: active
+run_id: aae6c4439144480c86db4a17e0549313
+run_name: luxuriant-slug-494
+run_uuid: aae6c4439144480c86db4a17e0549313
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718806611003
+status: 3
+tags: []
+user_id: codespace

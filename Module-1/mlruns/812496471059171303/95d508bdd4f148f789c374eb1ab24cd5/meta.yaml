@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/812496471059171303/95d508bdd4f148f789c374eb1ab24cd5/artifacts
+end_time: 1718807362644
+entry_point_name: ''
+experiment_id: '812496471059171303'
+lifecycle_stage: active
+run_id: 95d508bdd4f148f789c374eb1ab24cd5
+run_name: useful-lark-581
+run_uuid: 95d508bdd4f148f789c374eb1ab24cd5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718807297911
+status: 3
+tags: []
+user_id: codespace

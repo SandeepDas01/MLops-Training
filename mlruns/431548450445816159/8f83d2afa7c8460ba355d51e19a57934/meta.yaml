@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/431548450445816159/8f83d2afa7c8460ba355d51e19a57934/artifacts
+end_time: 1718860881535
+entry_point_name: ''
+experiment_id: '431548450445816159'
+lifecycle_stage: active
+run_id: 8f83d2afa7c8460ba355d51e19a57934
+run_name: victorious-cod-373
+run_uuid: 8f83d2afa7c8460ba355d51e19a57934
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718860873167
+status: 3
+tags: []
+user_id: codespace

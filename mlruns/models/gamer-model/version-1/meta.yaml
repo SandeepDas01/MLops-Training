@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1718866347418
+current_stage: Staging
+description: ''
+last_updated_timestamp: 1718866621851
+name: gamer-model
+run_id: d70b1b5572c942b59fcdd359ea982283
+run_link: ''
+source: mlflow-artifacts:/431548450445816159/d70b1b5572c942b59fcdd359ea982283/artifacts/models_mlflow
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/431548450445816159/d70b1b5572c942b59fcdd359ea982283/artifacts/models_mlflow
+user_id: null
+version: 1

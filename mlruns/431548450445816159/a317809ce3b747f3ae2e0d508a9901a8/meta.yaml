@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/431548450445816159/a317809ce3b747f3ae2e0d508a9901a8/artifacts
+end_time: 1718862672142
+entry_point_name: ''
+experiment_id: '431548450445816159'
+lifecycle_stage: active
+run_id: a317809ce3b747f3ae2e0d508a9901a8
+run_name: selective-grub-931
+run_uuid: a317809ce3b747f3ae2e0d508a9901a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718862633566
+status: 3
+tags: []
+user_id: codespace

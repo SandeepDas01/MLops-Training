@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/431548450445816159/d70b1b5572c942b59fcdd359ea982283/artifacts
+end_time: 1718865674750
+entry_point_name: ''
+experiment_id: '431548450445816159'
+lifecycle_stage: active
+run_id: d70b1b5572c942b59fcdd359ea982283
+run_name: calm-mink-284
+run_uuid: d70b1b5572c942b59fcdd359ea982283
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718865631185
+status: 3
+tags: []
+user_id: codespace

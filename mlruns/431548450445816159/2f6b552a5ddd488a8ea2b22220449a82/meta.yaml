@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/431548450445816159/2f6b552a5ddd488a8ea2b22220449a82/artifacts
+end_time: 1718862827771
+entry_point_name: ''
+experiment_id: '431548450445816159'
+lifecycle_stage: active
+run_id: 2f6b552a5ddd488a8ea2b22220449a82
+run_name: delicate-skink-159
+run_uuid: 2f6b552a5ddd488a8ea2b22220449a82
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718862782002
+status: 3
+tags: []
+user_id: codespace

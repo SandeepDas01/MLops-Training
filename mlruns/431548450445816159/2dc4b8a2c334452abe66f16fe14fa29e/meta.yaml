@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/431548450445816159/2dc4b8a2c334452abe66f16fe14fa29e/artifacts
+end_time: 1718861405877
+entry_point_name: ''
+experiment_id: '431548450445816159'
+lifecycle_stage: active
+run_id: 2dc4b8a2c334452abe66f16fe14fa29e
+run_name: wise-perch-91
+run_uuid: 2dc4b8a2c334452abe66f16fe14fa29e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718861377064
+status: 3
+tags: []
+user_id: codespace

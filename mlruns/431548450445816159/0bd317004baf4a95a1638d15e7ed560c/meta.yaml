@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/431548450445816159/0bd317004baf4a95a1638d15e7ed560c/artifacts
+end_time: 1718861230757
+entry_point_name: ''
+experiment_id: '431548450445816159'
+lifecycle_stage: active
+run_id: 0bd317004baf4a95a1638d15e7ed560c
+run_name: tasteful-dog-68
+run_uuid: 0bd317004baf4a95a1638d15e7ed560c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718861009485
+status: 3
+tags: []
+user_id: codespace

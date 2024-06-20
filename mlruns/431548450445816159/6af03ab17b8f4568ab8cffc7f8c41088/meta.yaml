@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/431548450445816159/6af03ab17b8f4568ab8cffc7f8c41088/artifacts
+end_time: 1718860547879
+entry_point_name: ''
+experiment_id: '431548450445816159'
+lifecycle_stage: active
+run_id: 6af03ab17b8f4568ab8cffc7f8c41088
+run_name: awesome-mouse-871
+run_uuid: 6af03ab17b8f4568ab8cffc7f8c41088
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718860547754
+status: 3
+tags: []
+user_id: codespace

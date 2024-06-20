@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1718868117792
+current_stage: Staging
+description: The model version 1 was transitioned to Staging on 2024-06-20
+last_updated_timestamp: 1718868349295
+name: gamer
+run_id: d70b1b5572c942b59fcdd359ea982283
+run_link: ''
+source: mlflow-artifacts:/431548450445816159/d70b1b5572c942b59fcdd359ea982283/artifacts/model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/431548450445816159/d70b1b5572c942b59fcdd359ea982283/artifacts/model
+user_id: null
+version: 1

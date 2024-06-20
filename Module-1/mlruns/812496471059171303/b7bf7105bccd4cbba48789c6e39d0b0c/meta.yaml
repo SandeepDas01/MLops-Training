@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/812496471059171303/b7bf7105bccd4cbba48789c6e39d0b0c/artifacts
+end_time: 1718807145487
+entry_point_name: ''
+experiment_id: '812496471059171303'
+lifecycle_stage: active
+run_id: b7bf7105bccd4cbba48789c6e39d0b0c
+run_name: upset-deer-831
+run_uuid: b7bf7105bccd4cbba48789c6e39d0b0c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718807116799
+status: 3
+tags: []
+user_id: codespace

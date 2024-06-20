@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/431548450445816159/a7fc0f3e7fb24022b072b2d1ca580e33/artifacts
+end_time: 1718860649073
+entry_point_name: ''
+experiment_id: '431548450445816159'
+lifecycle_stage: active
+run_id: a7fc0f3e7fb24022b072b2d1ca580e33
+run_name: likeable-hen-183
+run_uuid: a7fc0f3e7fb24022b072b2d1ca580e33
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718860629343
+status: 3
+tags: []
+user_id: codespace

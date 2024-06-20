@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/431548450445816159/212caf6dfaeb4d6d909a2b3cf954a233/artifacts
+end_time: 1718862781987
+entry_point_name: ''
+experiment_id: '431548450445816159'
+lifecycle_stage: active
+run_id: 212caf6dfaeb4d6d909a2b3cf954a233
+run_name: abrasive-toad-882
+run_uuid: 212caf6dfaeb4d6d909a2b3cf954a233
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718862702135
+status: 3
+tags: []
+user_id: codespace

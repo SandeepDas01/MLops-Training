@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/431548450445816159/c11c47a3ff6b4843b344df66bf57b3ac/artifacts
+end_time: 1718861446958
+entry_point_name: ''
+experiment_id: '431548450445816159'
+lifecycle_stage: active
+run_id: c11c47a3ff6b4843b344df66bf57b3ac
+run_name: bright-duck-611
+run_uuid: c11c47a3ff6b4843b344df66bf57b3ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718861405891
+status: 3
+tags: []
+user_id: codespace

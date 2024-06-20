@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/812496471059171303/b94928ab319e42d5a1d2c16b5fc6d0cc/artifacts
+end_time: 1718805913492
+entry_point_name: ''
+experiment_id: '812496471059171303'
+lifecycle_stage: active
+run_id: b94928ab319e42d5a1d2c16b5fc6d0cc
+run_name: respected-crane-115
+run_uuid: b94928ab319e42d5a1d2c16b5fc6d0cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718805904134
+status: 3
+tags: []
+user_id: codespace

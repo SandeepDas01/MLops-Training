@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/812496471059171303/21799caacc4d42c085a0cfd21034e370/artifacts
+end_time: 1718805922993
+entry_point_name: ''
+experiment_id: '812496471059171303'
+lifecycle_stage: active
+run_id: 21799caacc4d42c085a0cfd21034e370
+run_name: gregarious-crane-131
+run_uuid: 21799caacc4d42c085a0cfd21034e370
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718805913501
+status: 3
+tags: []
+user_id: codespace

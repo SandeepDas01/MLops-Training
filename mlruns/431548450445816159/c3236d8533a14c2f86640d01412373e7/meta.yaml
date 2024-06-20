@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/431548450445816159/c3236d8533a14c2f86640d01412373e7/artifacts
+end_time: 1718860920254
+entry_point_name: ''
+experiment_id: '431548450445816159'
+lifecycle_stage: active
+run_id: c3236d8533a14c2f86640d01412373e7
+run_name: gentle-ram-767
+run_uuid: c3236d8533a14c2f86640d01412373e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718860881544
+status: 3
+tags: []
+user_id: codespace

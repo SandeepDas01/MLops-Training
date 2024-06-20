@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/812496471059171303/6119ac9b78c6490ebebaa9ded1e1bb0b/artifacts
+end_time: 1718807256805
+entry_point_name: ''
+experiment_id: '812496471059171303'
+lifecycle_stage: active
+run_id: 6119ac9b78c6490ebebaa9ded1e1bb0b
+run_name: smiling-gull-26
+run_uuid: 6119ac9b78c6490ebebaa9ded1e1bb0b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718807231162
+status: 3
+tags: []
+user_id: codespace

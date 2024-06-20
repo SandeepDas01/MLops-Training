@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/431548450445816159/fd113554612e4c45acd4377218db1271/artifacts
+end_time: 1718863342156
+entry_point_name: ''
+experiment_id: '431548450445816159'
+lifecycle_stage: active
+run_id: fd113554612e4c45acd4377218db1271
+run_name: welcoming-flea-265
+run_uuid: fd113554612e4c45acd4377218db1271
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718863299268
+status: 4
+tags: []
+user_id: codespace

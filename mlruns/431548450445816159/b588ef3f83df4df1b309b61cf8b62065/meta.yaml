@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/431548450445816159/b588ef3f83df4df1b309b61cf8b62065/artifacts
+end_time: 1718864000444
+entry_point_name: ''
+experiment_id: '431548450445816159'
+lifecycle_stage: active
+run_id: b588ef3f83df4df1b309b61cf8b62065
+run_name: puzzled-vole-370
+run_uuid: b588ef3f83df4df1b309b61cf8b62065
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718864000300
+status: 3
+tags: []
+user_id: codespace

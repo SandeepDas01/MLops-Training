@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/431548450445816159/1c8b625d71a245e2bdd142dd8eca31fa/artifacts
+end_time: 1718862265514
+entry_point_name: ''
+experiment_id: '431548450445816159'
+lifecycle_stage: active
+run_id: 1c8b625d71a245e2bdd142dd8eca31fa
+run_name: bouncy-wren-50
+run_uuid: 1c8b625d71a245e2bdd142dd8eca31fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718862186841
+status: 3
+tags: []
+user_id: codespace

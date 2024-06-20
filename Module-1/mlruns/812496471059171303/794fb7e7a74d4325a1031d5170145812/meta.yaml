@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/812496471059171303/794fb7e7a74d4325a1031d5170145812/artifacts
+end_time: 1718806272407
+entry_point_name: ''
+experiment_id: '812496471059171303'
+lifecycle_stage: active
+run_id: 794fb7e7a74d4325a1031d5170145812
+run_name: righteous-moose-271
+run_uuid: 794fb7e7a74d4325a1031d5170145812
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718806257258
+status: 3
+tags: []
+user_id: codespace

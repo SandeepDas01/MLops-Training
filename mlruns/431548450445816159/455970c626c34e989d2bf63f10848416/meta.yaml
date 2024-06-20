@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/431548450445816159/455970c626c34e989d2bf63f10848416/artifacts
+end_time: 1718860966335
+entry_point_name: ''
+experiment_id: '431548450445816159'
+lifecycle_stage: active
+run_id: 455970c626c34e989d2bf63f10848416
+run_name: efficient-hound-771
+run_uuid: 455970c626c34e989d2bf63f10848416
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718860942617
+status: 3
+tags: []
+user_id: codespace

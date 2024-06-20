@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/431548450445816159/44d11a1a348d40799c53ddd9e8ab39fb/artifacts
+end_time: 1718860998315
+entry_point_name: ''
+experiment_id: '431548450445816159'
+lifecycle_stage: active
+run_id: 44d11a1a348d40799c53ddd9e8ab39fb
+run_name: puzzled-pig-879
+run_uuid: 44d11a1a348d40799c53ddd9e8ab39fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718860976923
+status: 3
+tags: []
+user_id: codespace

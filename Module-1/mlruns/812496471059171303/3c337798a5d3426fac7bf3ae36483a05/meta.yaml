@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/812496471059171303/3c337798a5d3426fac7bf3ae36483a05/artifacts
+end_time: 1718807577709
+entry_point_name: ''
+experiment_id: '812496471059171303'
+lifecycle_stage: active
+run_id: 3c337798a5d3426fac7bf3ae36483a05
+run_name: nosy-colt-373
+run_uuid: 3c337798a5d3426fac7bf3ae36483a05
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718807541794
+status: 3
+tags: []
+user_id: codespace

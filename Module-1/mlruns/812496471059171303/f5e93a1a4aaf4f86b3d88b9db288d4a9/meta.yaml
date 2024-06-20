@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/812496471059171303/f5e93a1a4aaf4f86b3d88b9db288d4a9/artifacts
+end_time: 1718806307267
+entry_point_name: ''
+experiment_id: '812496471059171303'
+lifecycle_stage: active
+run_id: f5e93a1a4aaf4f86b3d88b9db288d4a9
+run_name: traveling-sow-487
+run_uuid: f5e93a1a4aaf4f86b3d88b9db288d4a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718806283129
+status: 3
+tags: []
+user_id: codespace

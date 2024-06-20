@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/812496471059171303/f0bef56589b444faa9e68386dd9406f3/artifacts
+end_time: 1718807439975
+entry_point_name: ''
+experiment_id: '812496471059171303'
+lifecycle_stage: active
+run_id: f0bef56589b444faa9e68386dd9406f3
+run_name: rumbling-grouse-965
+run_uuid: f0bef56589b444faa9e68386dd9406f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718807417518
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/812496471059171303/3ef77d3fd54e408f9953a8dca52b9ae0/artifacts
+end_time: 1718807030915
+entry_point_name: ''
+experiment_id: '812496471059171303'
+lifecycle_stage: active
+run_id: 3ef77d3fd54e408f9953a8dca52b9ae0
+run_name: worried-ape-777
+run_uuid: 3ef77d3fd54e408f9953a8dca52b9ae0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718806984049
+status: 3
+tags: []
+user_id: codespace

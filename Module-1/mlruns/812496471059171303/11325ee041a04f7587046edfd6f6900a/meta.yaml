@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/812496471059171303/11325ee041a04f7587046edfd6f6900a/artifacts
+end_time: 1718806169161
+entry_point_name: ''
+experiment_id: '812496471059171303'
+lifecycle_stage: active
+run_id: 11325ee041a04f7587046edfd6f6900a
+run_name: brawny-grouse-845
+run_uuid: 11325ee041a04f7587046edfd6f6900a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718806117023
+status: 3
+tags: []
+user_id: codespace

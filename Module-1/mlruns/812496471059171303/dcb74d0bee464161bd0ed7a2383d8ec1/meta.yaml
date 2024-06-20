@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/812496471059171303/dcb74d0bee464161bd0ed7a2383d8ec1/artifacts
+end_time: 1718806011685
+entry_point_name: ''
+experiment_id: '812496471059171303'
+lifecycle_stage: active
+run_id: dcb74d0bee464161bd0ed7a2383d8ec1
+run_name: luminous-newt-869
+run_uuid: dcb74d0bee464161bd0ed7a2383d8ec1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718806003515
+status: 3
+tags: []
+user_id: codespace

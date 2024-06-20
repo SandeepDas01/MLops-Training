@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/431548450445816159/ae352d89f0a74eec9cc35665a73d2617/artifacts
+end_time: 1718860832109
+entry_point_name: ''
+experiment_id: '431548450445816159'
+lifecycle_stage: active
+run_id: ae352d89f0a74eec9cc35665a73d2617
+run_name: debonair-chimp-162
+run_uuid: ae352d89f0a74eec9cc35665a73d2617
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718860797781
+status: 3
+tags: []
+user_id: codespace

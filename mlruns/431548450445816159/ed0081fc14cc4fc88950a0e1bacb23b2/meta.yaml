@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/431548450445816159/ed0081fc14cc4fc88950a0e1bacb23b2/artifacts
+end_time: 1718860719883
+entry_point_name: ''
+experiment_id: '431548450445816159'
+lifecycle_stage: active
+run_id: ed0081fc14cc4fc88950a0e1bacb23b2
+run_name: sassy-bat-313
+run_uuid: ed0081fc14cc4fc88950a0e1bacb23b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718860649082
+status: 3
+tags: []
+user_id: codespace

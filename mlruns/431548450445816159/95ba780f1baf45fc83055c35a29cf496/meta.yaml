@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/431548450445816159/95ba780f1baf45fc83055c35a29cf496/artifacts
+end_time: 1718861564923
+entry_point_name: ''
+experiment_id: '431548450445816159'
+lifecycle_stage: active
+run_id: 95ba780f1baf45fc83055c35a29cf496
+run_name: peaceful-pig-471
+run_uuid: 95ba780f1baf45fc83055c35a29cf496
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718861512748
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/431548450445816159/6b5f63b6fcb9491e8d73be4a07a9a032/artifacts
+end_time: 1718862633551
+entry_point_name: ''
+experiment_id: '431548450445816159'
+lifecycle_stage: active
+run_id: 6b5f63b6fcb9491e8d73be4a07a9a032
+run_name: powerful-pig-70
+run_uuid: 6b5f63b6fcb9491e8d73be4a07a9a032
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718862609635
+status: 3
+tags: []
+user_id: codespace

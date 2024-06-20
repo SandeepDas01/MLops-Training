@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/431548450445816159/360dafebd786441eac08cfd8b132fcbd/artifacts
+end_time: 1718862466370
+entry_point_name: ''
+experiment_id: '431548450445816159'
+lifecycle_stage: active
+run_id: 360dafebd786441eac08cfd8b132fcbd
+run_name: secretive-stag-944
+run_uuid: 360dafebd786441eac08cfd8b132fcbd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718862398753
+status: 3
+tags: []
+user_id: codespace

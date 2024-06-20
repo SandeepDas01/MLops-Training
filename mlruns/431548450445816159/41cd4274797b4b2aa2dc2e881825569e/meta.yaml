@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/431548450445816159/41cd4274797b4b2aa2dc2e881825569e/artifacts
+end_time: 1718862297162
+entry_point_name: ''
+experiment_id: '431548450445816159'
+lifecycle_stage: active
+run_id: 41cd4274797b4b2aa2dc2e881825569e
+run_name: worried-hare-936
+run_uuid: 41cd4274797b4b2aa2dc2e881825569e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718862265529
+status: 3
+tags: []
+user_id: codespace

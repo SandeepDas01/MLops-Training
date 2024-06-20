@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/812496471059171303/277be031f39a420d8eb1e542117e0da4/artifacts
+end_time: 1718805698810
+entry_point_name: ''
+experiment_id: '812496471059171303'
+lifecycle_stage: active
+run_id: 277be031f39a420d8eb1e542117e0da4
+run_name: bemused-lark-272
+run_uuid: 277be031f39a420d8eb1e542117e0da4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718805642354
+status: 3
+tags: []
+user_id: codespace

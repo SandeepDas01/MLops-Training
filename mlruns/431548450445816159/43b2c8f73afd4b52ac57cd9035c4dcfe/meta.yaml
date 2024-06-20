@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/431548450445816159/43b2c8f73afd4b52ac57cd9035c4dcfe/artifacts
+end_time: 1718860797772
+entry_point_name: ''
+experiment_id: '431548450445816159'
+lifecycle_stage: active
+run_id: 43b2c8f73afd4b52ac57cd9035c4dcfe
+run_name: popular-finch-3
+run_uuid: 43b2c8f73afd4b52ac57cd9035c4dcfe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718860745044
+status: 3
+tags: []
+user_id: codespace

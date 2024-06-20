@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/812496471059171303/b7ce19370b0e43088f634c5e071cbae1/artifacts
+end_time: 1718806359214
+entry_point_name: ''
+experiment_id: '812496471059171303'
+lifecycle_stage: active
+run_id: b7ce19370b0e43088f634c5e071cbae1
+run_name: nosy-foal-264
+run_uuid: b7ce19370b0e43088f634c5e071cbae1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718806329738
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/431548450445816159/ec495e1b637b499a91b2beee00cfbb21/artifacts
+end_time: 1718860873159
+entry_point_name: ''
+experiment_id: '431548450445816159'
+lifecycle_stage: active
+run_id: ec495e1b637b499a91b2beee00cfbb21
+run_name: clean-snake-914
+run_uuid: ec495e1b637b499a91b2beee00cfbb21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718860854746
+status: 3
+tags: []
+user_id: codespace

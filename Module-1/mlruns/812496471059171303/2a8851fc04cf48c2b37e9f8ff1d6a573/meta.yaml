@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/812496471059171303/2a8851fc04cf48c2b37e9f8ff1d6a573/artifacts
+end_time: 1718806003506
+entry_point_name: ''
+experiment_id: '812496471059171303'
+lifecycle_stage: active
+run_id: 2a8851fc04cf48c2b37e9f8ff1d6a573
+run_name: enchanting-worm-495
+run_uuid: 2a8851fc04cf48c2b37e9f8ff1d6a573
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718805953255
+status: 3
+tags: []
+user_id: codespace
